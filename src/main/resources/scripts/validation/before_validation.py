@@ -4,6 +4,7 @@
 # FOR A PARTICULAR PURPOSE. THIS CODE AND INFORMATION ARE NOT SUPPORTED BY XEBIALABS.
 #
 
+from __future__ import with_statement
 import os
 
 # Grab the SHA1 hash of filepath
