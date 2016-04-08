@@ -1,4 +1,2 @@
 .DS_Store
-.gradle
-.idea
-build
+target/
